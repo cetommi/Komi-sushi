@@ -1,0 +1,8 @@
+{
+  "name": "Komi Sushi Cremona",
+  "description": "A refined, minimalist web application for the Komi Sushi restaurant in Cremona, featuring an interactive menu and booking system.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
